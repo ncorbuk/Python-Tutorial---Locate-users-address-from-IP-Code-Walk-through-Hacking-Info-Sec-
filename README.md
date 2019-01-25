@@ -8,4 +8,3 @@
 
 **Python_AND_Hacking subreddit: https://bit.ly/2Uf3gbw**
 
-**PYH4CK Clothing: https://bit.ly/2Ud09k5 (password = pyh4ck)**
