@@ -1,7 +1,6 @@
 # Python-Tutorial || Locate users address from IP Code Walk-through || Hacking/Info-Sec
 
-## Code Walk-through / other links
-
+## Code Walk-through & Learning resources links
 **Code Walk-through: https://bit.ly/2DveX88**
 
 **For more tutorials: https://bit.ly/2U58Lt9**
